@@ -1,0 +1,32 @@
+.header
+{
+    width: 1000px;
+    height: 80px;
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+.footer
+{
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+.leftMenu
+{
+    width: 300px;
+    height: 500px;
+    background-color:gray;
+}
+
+.mainContent
+{
+    width: 650px;
+    height: 500px;
+    background-color: pink;
+}
+a{
+    display: block;
+    padding: 5px;
+}
+
